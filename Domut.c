@@ -1,4 +1,6 @@
-int main()
+#include <stdio.h>
+
+int main (void)
 {
 	float A = 0, B = 0;
 	float i, j;
