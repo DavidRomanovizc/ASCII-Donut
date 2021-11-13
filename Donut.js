@@ -2,6 +2,7 @@ var el = document.getElementById("c");
 var ctx = el.getContext("2d");
 var start = null;
 
+
 var tmr1 = undefined, tmr2 = undefined;
 var A=1, B=1;
 
