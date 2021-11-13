@@ -20,4 +20,5 @@ void gotoxy(SHORT x, SHORT y) {
 	SetConsoleCursorPosition(h, c);
 }
 
+
 #endif //DONUT_DONUT_H
