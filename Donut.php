@@ -1,6 +1,7 @@
 <?php 
 $A = $B = 0;
 
+
 function asciiframe(){
     global $A,$B;
 
