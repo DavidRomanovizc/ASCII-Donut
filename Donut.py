@@ -2,6 +2,7 @@ import pygame
 import math
 import colorsys
 
+
 pygame.init()
 
 white = (255, 255, 255)
