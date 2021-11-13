@@ -1,7 +1,6 @@
 //
 // Created by Romanov on 13.11.2021.
 //
-
 #include "Donut.h"
 
 int main() {
